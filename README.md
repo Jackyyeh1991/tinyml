@@ -1,3 +1,5 @@
+https://www.hackster.io/cy49/wake-up-the-world-detection-tinyml-8c13db
+
 # tinyml
 TinyML training and deploying
 
